@@ -1,2 +1,2 @@
 # coursera-assigment1
-Module 2 Assigment repository
+Created when doing Module 2 Assigment
